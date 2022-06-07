@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/projection-space-explorer-app/static/css/main.d9bdd6b7.chunk.css",
-    "main.js": "/projection-space-explorer-app/static/js/main.002d4cca.chunk.js",
-    "main.js.map": "/projection-space-explorer-app/static/js/main.002d4cca.chunk.js.map",
-    "runtime-main.js": "/projection-space-explorer-app/static/js/runtime-main.86c4fe78.js",
-    "runtime-main.js.map": "/projection-space-explorer-app/static/js/runtime-main.86c4fe78.js.map",
-    "static/js/2.84011538.chunk.js": "/projection-space-explorer-app/static/js/2.84011538.chunk.js",
-    "static/js/2.84011538.chunk.js.map": "/projection-space-explorer-app/static/js/2.84011538.chunk.js.map",
-    "static/js/3.02bb9b19.chunk.js": "/projection-space-explorer-app/static/js/3.02bb9b19.chunk.js",
-    "static/js/3.02bb9b19.chunk.js.map": "/projection-space-explorer-app/static/js/3.02bb9b19.chunk.js.map",
+    "main.js": "/projection-space-explorer-app/static/js/main.a70b736d.chunk.js",
+    "main.js.map": "/projection-space-explorer-app/static/js/main.a70b736d.chunk.js.map",
+    "runtime-main.js": "/projection-space-explorer-app/static/js/runtime-main.72d36ef1.js",
+    "runtime-main.js.map": "/projection-space-explorer-app/static/js/runtime-main.72d36ef1.js.map",
+    "static/js/2.91759a5c.chunk.js": "/projection-space-explorer-app/static/js/2.91759a5c.chunk.js",
+    "static/js/2.91759a5c.chunk.js.map": "/projection-space-explorer-app/static/js/2.91759a5c.chunk.js.map",
+    "static/js/3.7dbd6a30.chunk.js": "/projection-space-explorer-app/static/js/3.7dbd6a30.chunk.js",
+    "static/js/3.7dbd6a30.chunk.js.map": "/projection-space-explorer-app/static/js/3.7dbd6a30.chunk.js.map",
     "index.html": "/projection-space-explorer-app/index.html",
     "static/css/main.d9bdd6b7.chunk.css.map": "/projection-space-explorer-app/static/css/main.d9bdd6b7.chunk.css.map",
-    "static/js/2.84011538.chunk.js.LICENSE.txt": "/projection-space-explorer-app/static/js/2.84011538.chunk.js.LICENSE.txt"
+    "static/js/2.91759a5c.chunk.js.LICENSE.txt": "/projection-space-explorer-app/static/js/2.91759a5c.chunk.js.LICENSE.txt",
+    "static/js/main.a70b736d.chunk.js.LICENSE.txt": "/projection-space-explorer-app/static/js/main.a70b736d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.86c4fe78.js",
-    "static/js/2.84011538.chunk.js",
+    "static/js/runtime-main.72d36ef1.js",
+    "static/js/2.91759a5c.chunk.js",
     "static/css/main.d9bdd6b7.chunk.css",
-    "static/js/main.002d4cca.chunk.js"
+    "static/js/main.a70b736d.chunk.js"
   ]
 }
