@@ -6,7 +6,7 @@ The default app implementation for the projection-space-explorer library.
 First clone this repository, preferably using ssh.
 
 ```
-git clone git@github.com:jku-vds-lab/reaction-cime.git
+git clone https://github.com/jku-vds-lab/projection-space-explorer-app.git
 ```
 
 After this step you can install the dependencies using
