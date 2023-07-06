@@ -4,6 +4,7 @@ import "./App.css";
 import {
   API,
   Application,
+  BaseConfig,
   createRootReducer,
   DatasetType,
   PSEContextProvider,
@@ -143,10 +144,14 @@ const api = new API<RootState>(null, createRootReducer({}));
 
 api.store.dispatch(setDatasetEntriesAction(DATASETCONFIG));
 
+const backendConfig: BaseConfig = {
+  baseUrl: 'https://cime.caleydoapp.org'
+};
+
 export function CIMEApp() {
   return (
     <PSEContextProvider context={api}>
-      <Application />
+      <Application config={backendConfig}/>
     </PSEContextProvider>
   );
 }
